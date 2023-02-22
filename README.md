@@ -49,7 +49,7 @@ Install some python libraries
 Clone the project
 
   
-  git clone: [https://github.com/MonishaO/TwitterScraping.git](files/test.txt)
+  git clone: [https://github.com/MonishaO/TwitterScraping](website)
   
 
 Change the directory to directory of project file
