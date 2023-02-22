@@ -1,7 +1,7 @@
 # Twitter Scraping
 Twitter Scraping by using snsscrape, MongoDB and Streamlit
 
-**Introduction:**
+**INTRODUCTION:**
 
   Twitter Scraping with Snscrape and Streamlit is a Python-based web application that allows users to scrape and analyze Twitter data. The application uses the Snscrape    package to extract tweets from Twitter and the Streamlit package to provide a user-friendly interface for analyzing the data. The application can be run on a local       machine and is optimized for performance, making it ideal for scraping large amounts of data.
   
@@ -28,4 +28,14 @@ Twitter Scraping by using snsscrape, MongoDB and Streamlit
  4. Can download the Scraped tweets in either CSV or JSON format .
  5. Can view the uploaded data or tweets 
 
+**EXECUTION OF THE PROJECT:**
 
+**Pre requisite Installation**
+
+Pre requisite Installation
+You should install the latest version of python for executing this project
+
+Install some python libraries
+
+  
+		
