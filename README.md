@@ -68,7 +68,7 @@ streamlit run "filename.py"
 
 ```
 for example:
-streamlit run Scrapping Twitter Data.py
+streamlit run Twitter Scraping.py
 ```
 
 **Accessing the localhost server**
