@@ -37,5 +37,48 @@ You should install the latest version of python for executing this project
 
 Install some python libraries
 
+ ```
+ pip install streamlit
+ pip install pymongo
+ pip install pandas 
+ pip install snscrape
+ ```
+
+**RUN LOCALLY**
+
+Clone the project
+
+  ```
+  git clone https://github.com/vishakanilavan/Twitter-scraping-with-streamlit-GUI
+  ```
+
+Change the directory to directory of project file
+
+Go to the downloaded/cloned project directory in prompt cmd
+```
+for example:
+  cd C:\Users\Admin PC\Downloads
+```
+
+Now Run the below command
+
+```
+streamlit run "filename.py"
+```
+
+```
+for example:
+streamlit run Scrapping Twitter Data.py
+```
+
+**Accessing the localhost server**
+
+      
+  You can now view your Streamlit app in your browser.
   
+  Local URL: http://localhost:8501
+  
+  Network URL: http://192.168.43.83:8501
+  
+  click the above link to display the created Twitter scraping web app
 		
