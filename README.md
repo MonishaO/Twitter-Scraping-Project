@@ -48,7 +48,7 @@ Twitter Scraping by using snsscrape, MongoDB and Streamlit
 1. **Clone the project**
 
    ```
-   git clone: [https://github.com/MonishaO/TwitterScraping](website)
+   git clone: [https://github.com/MonishaO/Twitter-Scraping-Project](website)
 
    download the above files from this repository and place inside this folder
    ```
