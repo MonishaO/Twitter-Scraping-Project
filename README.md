@@ -30,55 +30,70 @@ Twitter Scraping by using snsscrape, MongoDB and Streamlit
 
 **EXECUTION OF THE PROJECT:**
 
-**Pre requisite Installation**
+   **Pre requisite Installation**
+   
+   You should install the latest version of python for executing this project
 
-Pre requisite Installation
-You should install the latest version of python for executing this project
-
-Install some python libraries
-
- ```
- pip install streamlit
- pip install pymongo
- pip install pandas 
- pip install snscrape
- ```
+   Install some python libraries
+      
+   ```
+      pip install streamlit
+      pip install pymongo
+      pip install pandas
+      pip install snscrape
+   ```
 
 **RUN LOCALLY**
 
-Clone the project
+1. **Clone the project**
 
+   ```
+   git clone: [https://github.com/MonishaO/TwitterScraping](website)
+
+   download the above files from this repository and place inside this folder
+   ```
   
-  git clone: [https://github.com/MonishaO/TwitterScraping](website)
-  
+2. **Change the directory to directory of project file**
 
-Change the directory to directory of project file
+   Go to the downloaded/cloned project directory in prompt cmd
 
-Go to the downloaded/cloned project directory in prompt cmd
-```
-for example:
-  cd C:\Users\Admin PC\Downloads
-```
+   **For example:**
+   
+   ```
+   cd C:\Users\Admin PC\Downloads
+   ```
 
-Now Run the below command
+3. **Now Run the below command**
 
-```
-streamlit run "filename.py"
-```
+   ```
+   streamlit run "filename.py"
+   ```
 
-```
-for example:
-streamlit run Twitter Scraping.py
-```
+   **For example:**
 
-**Accessing the localhost server**
+   ```
+   streamlit run "Twitter Scraping.py"
+   ```
+
+   Now run the app using streamlit
+   
+4. **You can now view your Streamlit app in your browser.**
+
+5. **Local URL:** http://localhost:8501
+
+6. **Network URL:** http://192.168.107.230:8501
+
+After clicking on the above url you can see the app in your browser
+
+![twitter scraping image](https://user-images.githubusercontent.com/125800174/221221377-0a5c5847-6a42-4abb-bb39-41279c832b91.png)
+
+
+
+
+
+
+
 
       
-  You can now view your Streamlit app in your browser.
-  
-  Local URL: http://localhost:8501
-  
-  Network URL: http://192.168.43.83:8501
-  
-  click the above link to display the created Twitter scraping web app
+    
 		
