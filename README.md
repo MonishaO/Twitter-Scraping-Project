@@ -88,7 +88,9 @@ After clicking on the above url you can see the app in your browser
 ![twitter scraping image](https://user-images.githubusercontent.com/125800174/221221377-0a5c5847-6a42-4abb-bb39-41279c832b91.png)
 
 
+click on below link to view my project demo video in linkedin
 
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7035171518108110848/
 
 
 
